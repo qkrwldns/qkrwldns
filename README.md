@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm jiwoon</h1>
-<h3 align="center">hi i'm jiwoon</h3>
+<h3 align="center">개발자가 되기 위해 공부 중 입니다.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qkrwldns&label=Profile%20views&color=0e75b6&style=flat" alt="qkrwldns" /> </p>
 
