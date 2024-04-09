@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jiwoon</h1>
 <h3 align="center">개발자가 되기 위해 공부 중입니다</h3>
+![image](https://github.com/qkrwldns/qkrwldns/assets/129596718/e2a32ebf-f42a-4c82-8b92-c0d5eda8231f)
 
-[https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRkYmN6a2U4MHlnb29kdHZ5dDJubWQzOWhlNHJmcTJ3NW9kZGJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qkrwldns&label=Profile%20views&color=0e75b6&style=flat" alt="qkrwldns" /> </p>
