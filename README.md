@@ -64,7 +64,7 @@
   </a>
 </div>
 <br><br>  
-<img src="https://raw.githubusercontent.com/qkrwldns/cmd_svg/ca7cc70be28e3905c2b22172e6d3f6360d7a216b/github_stats.svg?token=A64X2LR73NLMFQPXFELXRR3GCUPK6" alt="My GitHub Stats" />
+<img src="https://raw.githubusercontent.com/qkrwldns/cmd_svg/a572e8b43ae9b36a41eadc781b517beb6cffbff5/github_stats.svg?token=A64X2LT6AGBSI2YV52COEZTGCUQJ6" alt="My GitHub Stats" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 <br><br>
