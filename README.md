@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm jiwoon</h1>
-<h3 align="center">개발자가 되기 위해 공부 중입니다</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20👋,%20I'm%20jiwoon&textBg=false&fontColor=timeGradient&desc=개발자가%20되기%20위해%20공부%20중입니다&fontAlign=50&descAlignY=65&fontAlignY=38" align="center" width="1000">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qkrwldns&label=Profile%20views&color=0e75b6&style=flat" alt="qkrwldns" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qkrwldns" alt="qkrwldns" /></a> </p>
@@ -65,8 +64,8 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/qkrwldns/cmd_svg/b93de5258bede8d9b641c84ef98ad6b73455842d/github_stats.svg?token=ACUMD4" alt="My GitHub Stats" />
-</div>
+
+<img src="https://raw.githubusercontent.com/qkrwldns/cmd_svg/b93de5258bede8d9b641c84ef98ad6b73455842d/github_stats.svg?token=ACUMD4" alt="My GitHub Stats" />
+
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 <br><br>
