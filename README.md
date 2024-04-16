@@ -62,8 +62,11 @@
   </a>
 </div>
 <br><br>  
+<div  align="center">
+  <img src="https://raw.githubusercontent.com/qkrwldns/github-stats-terminal-style/3f645f38dc1c64c3ccf69729a26037c849c0b327/github_stats.svg?token=A64X2LUZYF7THT2BN7DQ7H3GD4AC6" style="width: 500px;"/>
+</div>
 
-<img  align="center" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
+<img  align="center" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"/>
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000"/>
 <br><br>
