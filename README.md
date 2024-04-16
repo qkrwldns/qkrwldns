@@ -1,6 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20👋,%20I'm%20jiwoon&textBg=false&fontColor=timeGradient&desc=개발자가%20되기%20위해%20공부%20중입니다&fontAlign=50&descAlignY=65&fontAlignY=38" align="center" width="1000">
+<div align="center" >
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="300">
+</div>
+<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qkrwldns&label=Profile%20views&color=0e75b6&style=flat" alt="qkrwldns" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qkrwldns" alt="qkrwldns" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -63,7 +66,7 @@
 </div>
 <br><br>  
 <div  align="center">
-  <img src="https://raw.githubusercontent.com/qkrwldns/github-stats-terminal-style/3f645f38dc1c64c3ccf69729a26037c849c0b327/github_stats.svg?token=A64X2LUZYF7THT2BN7DQ7H3GD4AC6" style="width: 500px;"/>
+  <img src="https://github.com/qkrwldns/github-stats-terminal-style/raw/main/github_stats.svg"/>
 </div>
 
 <img  align="center" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="width: 100%;"/>
