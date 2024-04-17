@@ -66,7 +66,7 @@
 </div>
 <br><br>  
 <div  align="center">
-  <img src="https://github.com/qkrwldns/github-stats-terminal-style/raw/main/github_stats.svg"/>
+  <img src="https://github.com/qkrwldns/github-stats-terminal-style/blob/6a7ef283cffc0eb0c6beaf78162d3ccfae381863/github_stats.svg"/>
 </div>
 
 <img  align="center" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="width: 100%;"/>
