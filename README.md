@@ -4,7 +4,7 @@
 <a href="https://qkrwldns.github.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70">WOON 블로그 링크</a>
 
 <div align="center" >
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="300">
+  <img src="https://avatars.githubusercontent.com/u/129596718?v=4" width="300">
 </div>
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qkrwldns&label=Profile%20views&color=0e75b6&style=flat" alt="qkrwldns" /> </p>
