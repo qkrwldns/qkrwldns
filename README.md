@@ -1,11 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20👋,%20I'm%20jiwoon&textBg=false&fontColor=timeGradient&desc=개발자가%20되기%20위해%20공부%20중입니다&fontAlign=50&descAlignY=65&fontAlignY=38" align="center" width="1000">
 
 
-<a href="https://qkrwldns.github.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70">WOON 블로그 링크</a>
+<a href="https://qkrwldns.github.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/129596718?v=4" width="70">WOON 블로그 링크</a>
 
-<div align="center" >
-  <img src="https://avatars.githubusercontent.com/u/129596718?v=4" width="300">
-</div>
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qkrwldns&label=Profile%20views&color=0e75b6&style=flat" alt="qkrwldns" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qkrwldns" alt="qkrwldns" /></a> </p>
