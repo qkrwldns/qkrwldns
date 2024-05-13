@@ -35,7 +35,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="70">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="70"></a>
 <a href="https://www.blender.org/" target="_blank" > <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="70"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="70"/> </a>
 <a href="https://postman.com" target="_blank" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="70"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="70"/> </a> 
