@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20👋,%20I'm%20jiwoon&textBg=false&fontColor=timeGradient&desc=더%20잘하는%20개발자가%20되기%20위해%20공부%20중입니다&fontAlign=50&descAlignY=65&fontAlignY=38" align="center" width="1000">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20👋,%20I'm%20jiwoon&textBg=false&fontColor=timeGradient&desc=안녕하세요%20!!&fontAlign=50&descAlignY=65&fontAlignY=38" align="center" width="1000">
 
 
 <a href="https://qkrwldns.github.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/129596718?v=4" width="70">WOON 블로그 링크</a>
