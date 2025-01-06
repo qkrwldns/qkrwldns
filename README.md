@@ -61,15 +61,3 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/qkrwldns">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qkrwldns&" alt="qkrwldns" />
-  </a>
-</div>
-<br><br>  
-<div  align="center">
-  <img src="https://github.com/qkrwldns/github-stats-terminal-style/blob/6a7ef283cffc0eb0c6beaf78162d3ccfae381863/github_stats.svg"/>
-</div>
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000"/>
-<br><br>
