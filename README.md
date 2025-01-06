@@ -1,7 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Hi%20👋,%20I'm%20jiwoon&textBg=false&fontColor=timeGradient&desc=안녕하세요%20!!&fontAlign=50&descAlignY=65&fontAlignY=38" align="center" width="1000">
+
 
 
 <a href="https://qkrwldns.github.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/129596718?v=4" width="70">WOON 블로그 링크</a>
+<br/>
 <a href="http://jiwoonblog.dothome.co.kr/" target="_blank" rel="noreferrer"><img src="https://wedigital.co.kr/wp-content/uploads/2021/06/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%EB%A1%9C%EA%B3%A0.jpg" width="70">Jw's Blog</a>
 
 
